@@ -1,14 +1,9 @@
-/***************************************************************************
- * 
- * Copyright (c) 2013 Baidu.com, Inc. All Rights Reserved
- * 
- **************************************************************************/
  
  
  
 /**
  * @file Main.cpp
- * @author liuyihao01(com@baidu.com)
+ * @author liuyihao
  * @date 2013/03/29 20:23:27
  * @brief 系统Main函数，实现抓取功能
  *  

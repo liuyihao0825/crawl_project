@@ -1,14 +1,9 @@
-/***************************************************************************
- * 
- * Copyright (c) 2013 Baidu.com, Inc. All Rights Reserved
- * 
- **************************************************************************/
  
  
  
 /**
  * @file Receive.h
- * @author liuyihao01(com@baidu.com)
+ * @author liuyihao
  * @date 2013/03/29 20:08:23
  * @brief 接收器类，接收url
  *  

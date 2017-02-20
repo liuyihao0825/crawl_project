@@ -1,14 +1,9 @@
-/***************************************************************************
- * 
- * Copyright (c) 2013 Baidu.com, Inc. All Rights Reserved
- * 
- **************************************************************************/
  
  
  
 /**
  * @file Epoll.h
- * @author lichuang(lichuang@baidu.com)
+ * @author liuyihao
  * @date 2013/04/09 16:27:33
  * @brief Epoll类，提供epoll功能
  *  
