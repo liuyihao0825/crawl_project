@@ -3,7 +3,7 @@
  
 /**
  * @file Dispatch.cpp
- * @author liuyihao01
+ * @author liuyihao
  * @date 2013/04/01 09:52:29
  * @brief 分发模块，提供队列读写功能
  *  

@@ -3,7 +3,7 @@
  
 /**
  * @file Crawl.cpp
- * @author liuyihao01
+ * @author liuyihao
  * @date 2013/04/01 09:56:40
  * @brief 抓取器类，从队列获取url并建立连接 
  *  
